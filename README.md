@@ -4,7 +4,8 @@ SpendWise is a full stack expense tracking web application that helps users mana
 
 ## Live Demo
 
-🔗 [spendwise-lavya.vercel.app](#) <!-- add your deployed link here -->
+<a>spendwise-lavya.vercel.app</a>
+
 
 ## Features
 
